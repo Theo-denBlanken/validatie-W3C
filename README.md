@@ -22,12 +22,12 @@ Je kunt een en ander overnemen en naar eigen inzicht in jouw trainingsdocumenten
 
 ### CSS
 
-'''
+```
 #validatie img {
     height: 1em;
     width: auto;
     border: 0;
     margin: 0 .3em;
 }
-'''
+```
 
