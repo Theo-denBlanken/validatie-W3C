@@ -31,3 +31,4 @@ Je kunt een en ander overnemen en naar eigen inzicht in jouw trainingsdocumenten
 }
 ```
 
+![icoon Theo](https://lh4.googleusercontent.com/-8OFSrEMe-K8/AAAAAAAAAAI/AAAAAAAAAAA/JQWwoy-hKc0/s128-c-k/photo.jpg)
