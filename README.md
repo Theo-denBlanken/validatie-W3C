@@ -11,7 +11,7 @@ Je kunt een en ander overnemen en naar eigen inzicht in jouw trainingsdocumenten
 ### HTML
 
 ```
-<div id="validatie">
+<div class="validatie">
     <a href="http://validator.w3.org/check?uri=referer" target="_blank">
         <img src="https://blanken5.home.xs4all.nl/afb/valid-html5-blue.png" alt="Valide HTML5"></a>
     <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
